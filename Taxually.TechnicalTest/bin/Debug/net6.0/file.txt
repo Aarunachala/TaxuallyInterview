@@ -1,2 +1,0 @@
-2023-01-02 23:11:51.1366|INFO|Taxually.TechnicalTest.Service.RegistrationService|RegistrationService/: API Registration for Company 1 started.
-2023-01-02 23:11:53.7389|INFO|Taxually.TechnicalTest.Controllers.VatRegistrationController|VAT company created successfully.
